@@ -36,7 +36,7 @@ A* uses a cost function `f(n) = g(n) + h(n)`, where:
 
 For a visual understanding of A*:
 
-![A* Algorithm Infographic]([https://imgur.com/OjIviOi)
+![A* Algorithm Infographic](<blockquote class="imgur-embed-pub" lang="en" data-id="a/cULqbxg" data-context="false" ><a href="//imgur.com/a/cULqbxg"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
 This infographic breaks down the A* algorithm, showcasing its node prioritization and path exploration process.
 
