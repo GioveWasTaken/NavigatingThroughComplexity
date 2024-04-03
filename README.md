@@ -16,7 +16,7 @@ Graphs are abstract representations that allow algorithms to efficiently process
 
 Imagine a city's map abstracted into a graph:
 
-![Graph Representation of a Map](path-to-graph-image)
+![Graph Representation of a Map](https://imgur.com/yWWh9o0)
 
 This schematic shows intersections becoming nodes and roads transforming into edges, illustrating the graph foundation for pathfinding algorithms.
 
@@ -36,7 +36,7 @@ A* uses a cost function `f(n) = g(n) + h(n)`, where:
 
 For a visual understanding of A*:
 
-![A* Algorithm Infographic](path-to-infographic)
+![A* Algorithm Infographic]([https://imgur.com/OjIviOi)
 
 This infographic breaks down the A* algorithm, showcasing its node prioritization and path exploration process.
 
